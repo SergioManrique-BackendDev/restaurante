@@ -12,12 +12,15 @@ if(isset($_SESSION['username'])){
 }
 if(isset($_POST['login-submit'])){
     $db = new database();
+    /*
     $db->connect();
     $attempt = $db->logIn($_POST['login-username'], $_POST['login-password']);
     if($attempt == true){
         $_SESSION['username'] = $_POST['login-username'];
         Header("Location: /");
     }
+    */
+    Header("Location: /");
 }
 
 
