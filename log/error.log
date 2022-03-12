@@ -1,0 +1,771 @@
+[2022/03/11-02:34:02][Error Code: 8]Undefined variable: _database_password on file C:\wamp64\www\restaurante\php\database.php in line 20
+[2022/03/11-02:34:14][Error Code: 8]Undefined variable: _database_password on file C:\wamp64\www\restaurante\php\database.php in line 20
+[2022/03/11-02:39:32][Error Code: 8]Undefined variable: _database_password on file C:\wamp64\www\restaurante\php\database.php in line 22
+[2022/03/11-02:44:57][Error Code: 8]Undefined variable: _database_password on file C:\wamp64\www\restaurante\php\database.php in line 22
+[2022/03/11-02:45:06][Error Code: 8]Undefined variable: _database_password on file C:\wamp64\www\restaurante\php\database.php in line 21
+[2022/03/11-02:45:12][Error Code: 8]Undefined variable: _database_password on file C:\wamp64\www\restaurante\php\database.php in line 21
+[2022/03/11-16:59:50][Error Code: 8]Undefined variable: name on file C:\wamp64\www\restaurante\php\database.php in line 98
+[2022/03/11-16:59:50][Error Code: 8]Undefined variable: name on file C:\wamp64\www\restaurante\php\database.php in line 98
+[2022/03/11-16:59:50][Error Code: 8]Undefined variable: name on file C:\wamp64\www\restaurante\php\database.php in line 98
+[2022/03/11-17:00:07][Error Code: 8]Undefined variable: name on file C:\wamp64\www\restaurante\php\database.php in line 98
+[2022/03/11-17:00:07][Error Code: 8]Undefined variable: name on file C:\wamp64\www\restaurante\php\database.php in line 98
+[2022/03/11-17:00:07][Error Code: 8]Undefined variable: name on file C:\wamp64\www\restaurante\php\database.php in line 98
+[2022/03/11-17:08:14][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\prueba\index.php in line 16
+[2022/03/11-17:08:22][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\prueba\index.php in line 16
+[2022/03/11-17:08:23][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\prueba\index.php in line 16
+[2022/03/11-17:25:51][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:25:51][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:25:51][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\prueba\index.php in line 92
+[2022/03/11-17:26:01][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:26:01][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:26:17][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:26:17][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:26:45][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:26:45][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:27:15][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:27:15][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:27:29][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:27:29][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:27:29][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\prueba\index.php in line 92
+[2022/03/11-17:27:38][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:27:38][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:28:52][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:28:52][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:29:23][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:30:41][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:30:56][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:31:14][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:31:22][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:31:33][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:31:37][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:31:50][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:34:22][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:34:34][Error Code: 2]Illegal string offset 'numero' on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:42:01][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:42:01][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:01][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:18][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:42:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:34][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:42:34][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:34][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:40][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:42:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:42:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:45:55][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:45:55][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:45:55][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:01][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:46:01][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:01][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:20][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:46:20][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:20][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:46:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:46:48][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:46:48][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:47:19][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:47:19][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:47:29][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:47:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:49:29][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:49:29][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:49:29][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 116
+[2022/03/11-17:49:29][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 116
+[2022/03/11-17:49:29][Error Code: 8]Trying to access array offset on value of type int on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:49:29][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:49:29][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:50:53][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:50:53][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:50:53][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 116
+[2022/03/11-17:50:53][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 116
+[2022/03/11-17:50:53][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:50:53][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:50:53][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:51:11][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 111
+[2022/03/11-17:51:11][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 115
+[2022/03/11-17:51:11][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 116
+[2022/03/11-17:51:11][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 116
+[2022/03/11-17:51:11][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 121
+[2022/03/11-17:51:11][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:51:11][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 122
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: numero on file C:\wamp64\www\restaurante\php\database.php in line 112
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: restaurante on file C:\wamp64\www\restaurante\php\database.php in line 117
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 118
+[2022/03/11-17:51:42][Error Code: 8]Undefined index: tipo_mesa on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:51:42][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:51:42][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:40][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:40][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:56][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:52:56][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:52:56][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Array to string conversion on file C:\wamp64\www\restaurante\php\database.php in line 123
+[2022/03/11-17:53:18][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-17:53:18][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 124
+[2022/03/11-23:24:41][Error Code: 8]A non well formed numeric value encountered on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 8]A non well formed numeric value encountered on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 8]A non well formed numeric value encountered on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 8]A non well formed numeric value encountered on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:24:41][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:25:08][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:25:08][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:25:08][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:25:08][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 184
+[2022/03/11-23:27:52][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 183
+[2022/03/11-23:27:52][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 183
+[2022/03/11-23:27:52][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 183
+[2022/03/11-23:27:52][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 183
+[2022/03/11-23:27:52][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 183
+[2022/03/11-23:58:06][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 211
+[2022/03/11-23:58:06][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 211
+[2022/03/11-23:58:06][Error Code: 2]array_push() expects parameter 1 to be array, null given on file C:\wamp64\www\restaurante\php\database.php in line 211
+[2022/03/12-02:51:17][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:51:17][Error Code: 8]Undefined index: nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:51:20][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:51:20][Error Code: 8]Undefined index: nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:51:46][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:51:46][Error Code: 8]Undefined index: nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:52:14][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:52:14][Error Code: 8]Undefined index: nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-02:52:50][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:50:29][Error Code: 8]Undefined property: stdClass::$Telefono on file C:\wamp64\www\restaurante\php\database.php in line 247
+[2022/03/12-03:50:48][Error Code: 8]Undefined property: stdClass::$Telefono on file C:\wamp64\www\restaurante\php\database.php in line 247
+[2022/03/12-03:52:21][Error Code: 8]Undefined property: stdClass::$Telefono on file C:\wamp64\www\restaurante\php\database.php in line 247
+[2022/03/12-03:54:47][Error Code: 8]Undefined property: stdClass::$Telefono on file C:\wamp64\www\restaurante\php\database.php in line 247
+[2022/03/12-03:55:27][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-03:55:42][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:56:18][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:58:04][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:58:16][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:58:25][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:59:08][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:59:08][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 237
+[2022/03/12-03:59:34][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-03:59:34][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 237
+[2022/03/12-03:59:59][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:00:46][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:00:58][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:01:29][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:01:44][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:02:05][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:02:05][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 237
+[2022/03/12-04:02:22][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 234
+[2022/03/12-04:02:22][Error Code: 8]Undefined property: stdClass::$nickname on file C:\wamp64\www\restaurante\php\database.php in line 237
+[2022/03/12-04:02:58][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-04:03:18][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-04:03:27][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-04:03:42][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-04:04:37][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-04:05:12][Error Code: 8]Undefined property: stdClass::$restaurante on file C:\wamp64\www\restaurante\php\database.php in line 259
+[2022/03/12-05:47:50][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:47:50][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:48:45][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:48:45][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:49:05][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:49:05][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:49:40][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:49:40][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:49:57][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:49:57][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:50:07][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:50:07][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:50:29][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:50:29][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:50:43][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:50:43][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:50:50][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:50:50][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-05:50:59][Error Code: 8]Undefined index: password on file C:\wamp64\www\restaurante\php\database.php in line 337
+[2022/03/12-05:50:59][Error Code: 8]Undefined offset: 1 on file C:\wamp64\www\restaurante\php\database.php in line 340
+[2022/03/12-06:30:02][Error Code: 2]require(C:\wamp64\www\restaurante\prueba/php/database.php): failed to open stream: No such file or directory on file C:\wamp64\www\restaurante\prueba\index.php in line 5
+[2022/03/12-06:32:43][Error Code: 2]require(C:\wamp64\www\restaurante\php/prueba/index.php): failed to open stream: No such file or directory on file C:\wamp64\www\restaurante\php\database.php in line 6
+[2022/03/12-15:12:22][Error Code: 2]PDOStatement::execute() expects parameter 1 to be array, string given on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-15:12:40][Error Code: 2]PDOStatement::execute() expects parameter 1 to be array, string given on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-15:13:32][Error Code: 2]PDOStatement::execute() expects parameter 1 to be array, string given on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-15:13:33][Error Code: 2]PDOStatement::execute() expects parameter 1 to be array, string given on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-15:13:34][Error Code: 2]PDOStatement::execute() expects parameter 1 to be array, string given on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-15:13:34][Error Code: 2]PDOStatement::execute() expects parameter 1 to be array, string given on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-16:09:59][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-16:09:59][Error Code: 8]Trying to access array offset on value of type null on file C:\wamp64\www\restaurante\php\database.php in line 369
+[2022/03/12-16:09:59][Error Code: 8]Undefined offset: 0 on file C:\wamp64\www\restaurante\php\database.php in line 370
